@@ -1,0 +1,2 @@
+# nomaterwhat
+Hack script
